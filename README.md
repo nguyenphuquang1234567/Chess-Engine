@@ -10,7 +10,7 @@ pip install chess
 --------------------
 # Instructions
 1. Download Stockfish from here https://stockfishchess.org/download/
-2. Open the StockFish folder, RENAME the stockfish file in the folder to stockfish
+2. Open the StockFish folder, RENAME the stockfish file in the folder to " stockfish ", RENAME the folder to " stockfish "
 3. Clone this repository.
 4. Put the StockFish folder and my Folder in the same place
 5. Run ChessMain.py
