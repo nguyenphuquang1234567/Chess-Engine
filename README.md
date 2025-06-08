@@ -3,6 +3,11 @@ The Chess Board and the Piece Moving is created from the Eddie Sharick's tutoria
 # Usage
 ```bash
 pip install pygame
+```
+```bash
+pip install chess
+```
+--------------------
 # Instructions
 1. Download Stockfish from here https://stockfishchess.org/download/
 2. Open the StockFish folder, RENAME the stockfish file in the folder to stockfish
@@ -13,5 +18,7 @@ pip install pygame
 # Important key pressed
 1. Press z to undo a move.
 2. Press r to reset the game.
+
+
 
 
