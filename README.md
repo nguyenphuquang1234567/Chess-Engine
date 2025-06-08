@@ -8,7 +8,7 @@ The Chess Board and the Piece Moving is created from the Eddie Sharick's tutoria
 5. Run ChessMain.py
 6. Select whether you want to play versus computer, against another player locally, or watch the game of engine playing against itself
 # Important key pressed
-.Press z to undo a move.
-.Press r to reset the game.
+1. Press z to undo a move.
+2. Press r to reset the game.
 
 
