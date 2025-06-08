@@ -1,5 +1,7 @@
 # Chess Engine implemented stockfish. 
 The Chess Board and the Piece Moving is created from the Eddie Sharick's tutorial, but the AI's implementation and GUI stuff are mostly done by myself.
+# Usage
+' pip install pygame '
 # Instructions
 1. Download Stockfish from here https://stockfishchess.org/download/
 2. Open the StockFish folder, RENAME the stockfish file in the folder to stockfish
