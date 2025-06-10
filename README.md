@@ -1,5 +1,5 @@
 # Chess Engine implemented stockfish. 
-The Chess Board and the Piece Moving is created from the Eddie Sharick's tutorial, but the AI's implementation and GUI stuff are mostly done by myself.
+My Python Chess Engine Project
 # Usage
 ```bash
 pip install pygame
