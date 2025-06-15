@@ -8,10 +8,10 @@ A fully interactive chess application built with Python and Pygame, featuring in
 5. 📈 Real-time position evaluation by Stockfish
 6. 🕹️ Player vs Player mode
 # 🛠️ Tech Stack
-. Python 3
-. Pygame — for graphics and input
-. python-chess — handles board logic and UCI communication
-. Stockfish — used as the backend engine
+1. Python 3
+2. Pygame — for graphics and input
+3. python-chess — handles board logic and UCI communication
+4. Stockfish — used as the backend engine
 # Usage
 ```bash
 pip install pygame
