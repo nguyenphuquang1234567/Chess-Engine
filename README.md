@@ -1,12 +1,12 @@
 # ♟️ Chess Engine GUI using Python, Pygame, and Stockfish
 A fully interactive chess application built with Python and Pygame, featuring integration with the powerful Stockfish engine via UCI protocol. The app allows users to play chess with real-time AI evaluation, undo moves, and customize the interface.
 # 🎯 Features
-🧠 Play against the Stockfish engine (UCI)
-♟️ Drag-and-drop piece movement
-🔁 Undo last move
-🧩 Highlight legal moves
-📈 Real-time position evaluation by Stockfish
-🕹️ Player vs Player mode
+1. 🧠 Play against the Stockfish engine (UCI)
+2. ♟️ Drag-and-drop piece movement
+3. 🔁 Undo last move
+4. 🧩 Highlight legal moves
+5. 📈 Real-time position evaluation by Stockfish
+6. 🕹️ Player vs Player mode
 # 🛠️ Tech Stack
 Python 3
 Pygame — for graphics and input
