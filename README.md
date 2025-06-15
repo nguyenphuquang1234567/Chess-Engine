@@ -23,6 +23,17 @@ pip install pygame
 pip install chess
 ```
 --------------------
+# 🔧 Project Structure 
+```bash
+Chess/
+├── Chess/
+│   ├── main.py              # Main game loop and rendering
+│   ├── chess_engine.py      # Handles Stockfish logic + move control
+│   └── ...                  # Other modules (UI, events, etc.)
+└── stockfish/
+    └── stockfish        # Stockfish engine binary
+```
+
 # Instructions
 1. Download Stockfish from here https://stockfishchess.org/download/
 2. Open the StockFish folder, RENAME the stockfish file in the folder to " stockfish ", RENAME the folder to " stockfish "
