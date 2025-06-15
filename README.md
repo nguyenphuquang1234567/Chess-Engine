@@ -1,5 +1,17 @@
-# Chess Engine implemented stockfish. 
-My Python Chess Engine Project
+# ♟️ Chess Engine GUI using Python, Pygame, and Stockfish
+A fully interactive chess application built with Python and Pygame, featuring integration with the powerful Stockfish engine via UCI protocol. The app allows users to play chess with real-time AI evaluation, undo moves, and customize the interface.
+# 🎯 Features
+🧠 Play against the Stockfish engine (UCI)
+♟️ Drag-and-drop piece movement
+🔁 Undo last move
+🧩 Highlight legal moves
+📈 Real-time position evaluation by Stockfish
+🕹️ Player vs Player mode
+# 🛠️ Tech Stack
+Python 3
+Pygame — for graphics and input
+python-chess — handles board logic and UCI communication
+Stockfish — used as the backend engine
 # Usage
 ```bash
 pip install pygame
